@@ -11,9 +11,13 @@
     WHERE id = 5;
 ```
 
-    ```html
+```html
     <p>some text </p>
-    ```
+```
+
+```
+SELECT * FROM table WHERE Y = X;
+```
 
 
 
