@@ -6,6 +6,7 @@
     * [Test-Artikel](test-artikel.md)
     * [installation requirements](cor_inst_req.md)
     * [download and installation](cor_dwnld_inst.md)
+    * [Ein neuer Artikel](ein-neuer-artikel.md)
     * [Activate license](activate.md)
   * [smaxt managemennt studio](studio.md)
     * [system requirements](stud_inst_req.md)
