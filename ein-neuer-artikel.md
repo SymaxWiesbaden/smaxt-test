@@ -2,8 +2,13 @@
 
 ## Quellcode Sample
 
-    ```js
+```js
     var a = {};
+```
+
+    ```SQL
+    SELECT * FROM assets 
+    WHERE id = 5;
     ```
 
 
