@@ -12,10 +12,11 @@
     * [system requirements](stud_inst_req.md)
       * [download and installation](stud_dwnld_inst.md)
       * [Activate license](activate.md)
-* [Frist Steps](first_steps.md)
+* [First Steps](first_steps.md)
   * [Excel](fs_excel.md)
   * [PowerPoint](fs_ppt.md)
   * [Word](fs_word.md)
 * [A Page with images](a-page-with-images.md)
 * [Image Default ](image-default.md)
+* [Another Image](another-image.md)
 
