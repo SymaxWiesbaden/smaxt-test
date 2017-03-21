@@ -16,4 +16,6 @@
   * [Excel](fs_excel.md)
   * [PowerPoint](fs_ppt.md)
   * [Word](fs_word.md)
+* [A Page with images](a-page-with-images.md)
+* [Image Default ](image-default.md)
 
