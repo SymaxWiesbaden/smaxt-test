@@ -4,11 +4,14 @@
 
 
 
-{% left %} This **will be** aligned left. {% endleft %}
+{% left %} 
+![](/assets/ExcelFromScratchProductlist31.PNG) {% endleft %}
 
-{% right %} This **will be** aligned right. {% endright %}
+{% right %} 
+![](/assets/ExcelFromScratchProductlist31.PNG) {% endright %}
 
-{% center %} This **will be** centered. {% endcenter %}
+{% center %} 
+![](/assets/ExcelFromScratchProductlist31.PNG) {% endcenter %}
 
 
 
