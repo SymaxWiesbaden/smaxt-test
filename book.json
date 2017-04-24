@@ -13,7 +13,8 @@
         "ga",
         "youtube",
         "anchors",
-        "edit-link"],
+        "edit-link",
+        "block-align"],
 
     "pluginsConfig":  {
             "edit-link": {
